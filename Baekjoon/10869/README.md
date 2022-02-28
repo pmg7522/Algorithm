@@ -17,4 +17,6 @@
 parseInt() 함수를 사용하여 A와 B를 String에서 정수로 변환하여 계산한다.
 넷째 줄의 나눗셈의 몫을 구하는 경우는 소수점을 없애야 하기 때문에 parseInt()를 한번 더 사용한다.
 
+---
+
 [문제 출처]https://www.acmicpc.net/problem/10869
