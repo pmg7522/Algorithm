@@ -1,11 +1,11 @@
 # Baekjoon Algoritm Study
-1. https://github.com/pmg7522/Algorithm/issues/2
-2. https://github.com/pmg7522/Algorithm/issues/3
-3. https://github.com/pmg7522/Algorithm/issues/5
-4. https://github.com/pmg7522/Algorithm/issues/7
-5. https://github.com/pmg7522/Algorithm/issues/9
-6. https://github.com/pmg7522/Algorithm/issues/10
-7. https://github.com/pmg7522/Algorithm/issues/11
-8. https://github.com/pmg7522/Algorithm/issues/12
-9. https://github.com/pmg7522/Algorithm/issues/14
-10. https://github.com/pmg7522/Algorithm/issues/15
+1. [10869번: 사칙연산](https://github.com/pmg7522/Algorithm/issues/2)
+2. [10926번: ??!](https://github.com/pmg7522/Algorithm/issues/3)
+3. [2588번: 곱셈](https://github.com/pmg7522/Algorithm/issues/5)
+4. [2739번: 구단](https://github.com/pmg7522/Algorithm/issues/7)
+5. [10871번: X보다 작은 수](https://github.com/pmg7522/Algorithm/issues/9)
+6. [2577번: 숫자의 개수](https://github.com/pmg7522/Algorithm/issues/10)
+7. [10952번: A+B-5](https://github.com/pmg7522/Algorithm/issues/11)
+8. [2750번: 수 정렬하기](https://github.com/pmg7522/Algorithm/issues/12)
+9. [10872번: 팩토리얼](https://github.com/pmg7522/Algorithm/issues/14)
+10. [10870번: 피보나치 수 5](https://github.com/pmg7522/Algorithm/issues/15)
