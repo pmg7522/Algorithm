@@ -19,7 +19,16 @@ H-Index는 과학자의 생산성과 영향력을 나타내는 지표입니다. 
 ------------
 ## 풀이 코드
 ```js
-
+function solution(citations) {
+    var answer = 0;
+    const sort = citations.sort((a, b) => b - a);
+    
+    while(answer + 1 <= sort[answer]) {
+        answer++
+    }
+    
+    return answer;
+}
 ```
 ------------
 
