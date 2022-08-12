@@ -40,7 +40,7 @@ function solution(array, commands) {
   return answer;
 }
 ```
-이유: sort를 sort()로 사용하면 Number가 아닌 String으로 인식하고 정렬합니다.
+이유: 정렬할 때 sort()로 사용하면 Number가 아닌 String으로 인식하고 정렬합니다.
 
 ------------
 
@@ -50,7 +50,7 @@ function solution(array, commands) {
   var answer = [];
 
   for (let i = 0; i < commands.length; i++) {
-      answer.push(array.slice(commands[i][0] - 1, commands[i][1]).sort((a, b) => a - b)[commands[i][2] - 1]);
+    answer.push(array.slice(commands[i][0] - 1, commands[i][1]).sort((a, b) => a - b)[commands[i][2] - 1]);
   };
 
   return answer;
