@@ -26,7 +26,9 @@
 [1, 5, 2, 6, 3, 7, 4]를 4번째부터 4번째까지 자른 후 정렬합니다. [6]의 첫 번째 숫자는 6입니다.   
 [1, 5, 2, 6, 3, 7, 4]를 1번째부터 7번째까지 자릅니다. [1, 2, 3, 4, 5, 6, 7]의 세 번째 숫자는 3입니다.
 
-------------
+[출처](https://neerc.ifmo.ru/subregions/northern.html)
+
+---
 
 ## 실패한 풀이 코드
 ```js
@@ -42,7 +44,7 @@ function solution(array, commands) {
 ```
 이유: 정렬할 때 sort()로 사용하면 Number가 아닌 String으로 인식하고 정렬합니다.
 
-------------
+---
 
 ## 성공한 풀이 코드
 ```js
@@ -57,6 +59,4 @@ function solution(array, commands) {
 }
 ```
 
-------------
-
-[문제 출처](https://programmers.co.kr/learn/courses/30/lessons/42748)
+---
